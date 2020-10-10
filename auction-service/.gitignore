@@ -1,0 +1,9 @@
+# package directories
+node_modules
+jspm_packages
+createTokenAuth0
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
